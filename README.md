@@ -99,15 +99,3 @@ python netflix_eda_report.py
 
 ---
 
-## 🌟 Contributions
-
-Feel free to fork the project and add further analysis like:
-- NLP on descriptions
-- Time-series forecasting
-- Clustering similar shows
-
----
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
