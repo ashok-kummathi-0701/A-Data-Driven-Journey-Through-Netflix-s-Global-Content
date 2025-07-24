@@ -63,6 +63,10 @@ This repository contains an exploratory data analysis (EDA) of the [Netflix Titl
 ## 📈 Visualizations
 
 All charts are saved as PNGs:
+- <img width="640" height="480" alt="Content_type_distributio" src="https://github.com/user-attachments/assets/866683ab-e89b-4c4b-af20-93f6c33404dc" />
+- <img width="640" height="480" alt="top_10_Countries_with_Most_Netflix_Titles" src="https://github.com/user-attachments/assets/6a3e25d4-891d-4508-915d-d785208c3f60" />
+
+
 - `content_type_distribution.png`
 - `top_10_countries.png`
 - `top_10_genres.png`
